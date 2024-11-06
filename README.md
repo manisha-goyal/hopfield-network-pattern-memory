@@ -13,12 +13,7 @@ This repository demonstrates the use of a Hopfield network to remember and recal
     git clone https://github.com/manisha-goyal/hopfield-network-pattern-memory.git
     cd hopfield-network-pattern-memory
     ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+    
 ## Usage
 
 Open the notebook in Jupyter or Google Colab and execute the cells to experiment with pattern occlusion, noise addition, and recovery using the Hopfield network.
